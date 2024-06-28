@@ -11,7 +11,7 @@ For Arduino, you can download the library as zip and call include Library -> zip
 
 ```
 cd  ~/Documents/Arduino/libraries
-git clone pschatzmann/arduino-libsbc.git
+git clone https://github.com/limengdu/reSpeaker_Lite-libsbc
 ```
 This has the advantage that you can easily get the latest code updates by just executing the command ```git pull```
 
