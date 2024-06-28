@@ -17,8 +17,8 @@ This has the advantage that you can easily get the latest code updates by just e
 
 ## Documentation
 
-I recommend to use this library together with my [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools). 
-This is just one of many __codecs__ that I have collected so far: Further details can be found in the [Encoding and Decoding Wiki](https://github.com/pschatzmann/arduino-audio-tools/wiki/Encoding-and-Decoding-of-Audio) of the Audio Tools.
+I recommend to use this library together with my [reSpeaker Lite Library](https://github.com/limengdu/reSpeaker_Lite-Arduino-Library.git). 
+Further details can be found in the [Seeed Studio reSpeaker Lite Wiki](https://wiki.seeedstudio.com/reSpeaker_lite_introduction/) of the reSpeaker Lite Library.
 Last but not least here is also a link to the official [SBC documentation](https://www.bluetooth.com/specifications/specs/low-complexity-communication-codec-1-0/)
 
 
